@@ -25,6 +25,6 @@ Tests avec Jest et Jasmine · Scrum / SAFe · à l'aise sur Linux et macOS.
 
 La plupart de mes missions clients vivent sur des GitLab privés : ce profil ne montre donc qu'une petite partie de mon travail.
 
-**Me contacter**
+**Disponibilité**
 
 Ouvert aux missions freelance et aux postes de développeur fullstack.
